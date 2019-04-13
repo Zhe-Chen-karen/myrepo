@@ -1,3 +1,3 @@
-# myrepo
-testing my setup
-A line I wrote on my local computer
+# workout02
+
+Create a shiny app for the saving-investing modalities considered in warmup 6.
